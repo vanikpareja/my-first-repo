@@ -8,9 +8,9 @@ Once you get the hang of *it*, you just:
 * Write your doc
 * Done!
 
-You can write lines of codes like `elif option.upper() == 'T':
+You can write lines of codes like `elif option.upper() == 'T':`
 which is Python 3 syntax by the way. I learned to code in Python with Dev236x class.
 
 That's it. Enjoy!
 
-[Google+]https://plus.google.com/+VanessaPareja
+[Google+](https://plus.google.com/+VanessaPareja)
