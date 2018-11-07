@@ -9,8 +9,8 @@ Once you get the hang of *it*, you just:
 * Done!
 
 You can write lines of codes like `elif option.upper() == 'T':`
-which is Python 3 syntax by the way. I learned to code in Python with Dev236x class.
+which is Python 3 syntax by the way. I learned to code in Python with [Dev236x] (https://courses.edx.org/courses/course-v1:Microsoft+DEV236x+2T2018/course/) class.
 
 That's it. Enjoy!
 
-[Google+](https://plus.google.com/+VanessaPareja)
+[Vanessa Pareja](https://plus.google.com/+VanessaPareja)
